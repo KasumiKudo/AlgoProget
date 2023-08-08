@@ -1,1 +1,2 @@
 # AlgoProget
+print('Hello')
